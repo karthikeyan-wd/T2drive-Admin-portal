@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="90"/>
 
 # T2Drive Admin Portal
 
@@ -14,7 +13,7 @@ A comprehensive web-based administration platform designed to manage the entire 
 
 </p>
 
-<img src="./assets/banner.png" width="100%"/>
+<img src="./images/T2drive-admin.png" width="100%"/>
 
 <br>
 
