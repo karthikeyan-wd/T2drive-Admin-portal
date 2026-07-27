@@ -41,100 +41,42 @@ The portal is designed with a scalable **Role-Based Access Control (RBAC)** arch
 
 ---
 
-# 🚀 Platform Capabilities
+<h2 align="center">🚀 Platform Capabilities</h2>
 
-<table>
+<p align="center">
+A complete admin platform for managing drivers, customers, trips, payments, analytics, and operations.
+</p>
 
-<tr>
+---
 
-<td width="33%" valign="top">
+<div align="center">
 
-### 👥 User Management
+| 👥 **User Management** | 🚖 **Trip Operations** | 💰 **Business Management** |
+|:---------------------:|:---------------------:|:--------------------------:|
+| Customer Management | Live Trip Monitoring | Pricing Engine |
+| Driver Management | Trip Verification | Subscription Plans |
+| Driver Applications | Route Details | Driver Recharge |
+| Offline Onboarding | Trip Transactions | Taxes |
+| Driver Outreach | Ride Analytics | Coupons |
+| Admin Management | Driver Tracking | Promotions |
+| RBAC Permissions | SOS Monitoring | Payment History |
 
-- Customer Management
-- Driver Management
-- Driver Applications
-- Offline Onboarding
-- Driver Outreach
-- Admin Management
-- RBAC Permissions
+</div>
 
-</td>
+<br>
 
-<td width="33%" valign="top">
+<div align="center">
 
-### 🚖 Trip Operations
+| 📢 **Communication** | 📊 **Dashboard** | ⚙ **Platform** |
+|:------------------:|:---------------:|:--------------:|
+| Push Notifications | Revenue Analytics | Role-Based Access |
+| Driver Alerts | Active Drivers | Module Permissions |
+| Customer Alerts | Active Users | Socket.IO |
+| Real-Time Updates | Trip Statistics | Live Dashboard |
+| Support Tickets | Invoice Templates | High Performance |
+| Support Analytics | Reports | Secure Operations |
 
-- Live Trip Monitoring
-- Trip Verification
-- Route Details
-- Trip Transactions
-- Ride Analytics
-- Driver Tracking
-- SOS Monitoring
-
-</td>
-
-<td width="33%" valign="top">
-
-### 💰 Business Management
-
-- Pricing Engine
-- Subscription Plans
-- Driver Recharge
-- Taxes
-- Coupons
-- Promotions
-- Payment History
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 📢 Communication
-
-- Push Notifications
-- Driver Alerts
-- Customer Alerts
-- Real-Time Updates
-- Support Tickets
-- Support Analytics
-
-</td>
-
-<td>
-
-### 📊 Dashboard
-
-- Revenue Analytics
-- Active Drivers
-- Active Users
-- Trip Statistics
-- Invoice Templates
-- Reports
-
-</td>
-
-<td>
-
-### ⚙ Platform
-
-- Role-Based Access
-- Module Permissions
-- Socket.IO
-- Live Dashboard
-- High Performance
-- Secure Operations
-
-</td>
-
-</tr>
-
-</table>
+</div>
 
 # 🔄 Administration Workflow
 
