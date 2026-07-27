@@ -13,7 +13,7 @@ A comprehensive web-based administration platform designed to manage the entire 
 
 </p>
 
-<img src="./src./assets/images/adminportal.png" width="100%"/>
+<img src="src/assets/images/adminportal.png" width="100%" alt="Admin Portal"/>
 
 <br>
 
