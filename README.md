@@ -90,22 +90,19 @@ A complete admin platform for managing drivers, customers, trips, payments, anal
 
 </div>
 
-<h2 align="center">🔐 Role-Based Access</h2>
+<h2 align="center">🔐 Role-Based Access Control</h2>
 
 <div align="center">
 
-### 👑 Super Admin
-
-`Full Access` • `All Modules` • `System Settings` • `Manage Roles` • `Analytics` • `Reports`
-
----
-
-### 👨‍💼 Admin
-
-`Module Access` • `Driver Management` • `Customer Management` • `Trip Operations` • `Reports`
+| 👑 **Super Admin** | 👨‍💼 **Admin** |
+|:------------------:|:--------------:|
+| ✅ Full Platform Access | ✅ Module-Based Permissions |
+| ✅ User & Driver Management | ✅ Assigned Modules Only |
+| ✅ System Configuration | ✅ Daily Operations |
+| ✅ Reports & Analytics | ✅ View Reports |
+| ✅ Permission Management | ❌ Cannot Manage Roles |
 
 </div>
-
 ### Protected Modules
 
 - Dashboard
