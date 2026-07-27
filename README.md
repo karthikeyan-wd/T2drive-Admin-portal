@@ -78,35 +78,17 @@ A complete admin platform for managing drivers, customers, trips, payments, anal
 
 </div>
 
-# 🔄 Administration Workflow
+<h2 align="center">🔄 Administration Workflow</h2>
+
+<div align="center">
 
 ```text
-Admin Login
-      │
-      ▼
-Dashboard
-      │
-      ▼
-Monitor Live Operations
-      │
-      ▼
-Driver & Customer Management
-      │
-      ▼
-Trip Monitoring
-      │
-      ▼
-Pricing & Subscription
-      │
-      ▼
-Payment & Transactions
-      │
-      ▼
-Support & Notifications
-      │
-      ▼
-Reports & Analytics
+┌─────────┐ → ┌────────────┐ → ┌──────────────┐ → ┌─────────────┐ → ┌─────────────┐ → ┌─────────────┐ → ┌───────────┐ → ┌──────────┐ → ┌────────────┐
+│ 🔐 Login│   │📊 Dashboard│   │🛰️ Operations │   │👥 Users     │   │🚖 Trips     │   │💰 Pricing   │   │💳 Payment │   │📢 Support│   │📈 Reports │
+└─────────┘   └────────────┘   └──────────────┘   └─────────────┘   └─────────────┘   └─────────────┘   └───────────┘   └──────────┘   └────────────┘
 ```
+
+</div>
 
 # 🔐 Role-Based Access Control
 
